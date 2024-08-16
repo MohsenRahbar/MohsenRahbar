@@ -1,19 +1,26 @@
-# Mohsen Rahbar  
-## Softwer Engineer<br>
-<img align=left width="240"  height="280" src="https://64.media.tumblr.com/7460286610d604cb2394d9b03e7fcfa5/tumblr_oi5czt8lMz1qz9v0to7_500.gif" > <spam><br>
-      👨‍💻last seen:I'm learn new skills<br>
-      Based:Theran_IR<br>
-      </spam>
+# Mohsen Rahbar
 
-# myskills :
-<spam>
-HTML ,<br>
-CSS ,<br>
-JS ,<br>
-PYTHON ,<br>
-C# ,<br>
-and more...!
-</spam>
+## Software Engineer
+
+[Consider adding a professional headshot here](https://gist.github.com/vininjr/d29bb07bdadb41e4b0923bc8fa748b1a/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif)
+
 <br>
+
+**Currently Learning:** ‍
+
+* I'm always expanding my skillset with new technologies!
+
+**Based in Tehran, Iran** 🇮🇷
+
 <br>
-I like Programming :)
+
+## My Skills:
+
+* HTML
+* CSS
+* JavaScript (JS)
+* Python
+* C#
+* And more...
+
+**I'm passionate about programming!** 
