@@ -6,7 +6,7 @@
 
 * I'm always expanding my skillset with new technologies!
 
-**Based in Tehran, Iran** 🇮🇷
+**Based in Tehran, Iran**
 
 <br>
 
