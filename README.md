@@ -1,7 +1,7 @@
 # Mohsen Rahbar
 
 ## Software Engineer
-<br>
+
 **Currently Learning:** ‍
 
 * I'm always expanding my skillset with new technologies!
