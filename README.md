@@ -4,7 +4,11 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohsenrahbar&label=Profile%20views&color=0e75b6&style=flat" alt="mohsenrahbar" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohsenrahbar" alt="mohsenrahbar" /></a> </p>
+###
 
+<img align="right" height="150" src="https://www.icegif.com/wp-content/uploads/2024/08/roronoa-zoro-icegif-1.gif"  />
+
+###
 - 🌱 I’m currently learning **k6**
 
 - 📫 How to reach me **MohsenRahbar@yandex.com**
@@ -22,3 +26,19 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohsenrahbar&show_icons=true&locale=en&layout=compact" alt="mohsenrahbar" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mohsenrahbar&show_icons=true&locale=en" alt="mohsenrahbar" /></p>
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+</picture>
+
