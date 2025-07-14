@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **MohsenRahbar@yandex.com**
 
-- ⚡ Fun fact **I lover of Archlinux + Anime + Code**
+- ⚡ Fun fact **I lover of Archlinux 🐧 + Anime + Code 👨‍💻**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
